@@ -1,0 +1,8 @@
+node_modules
+**/build/**
+**/package-lock.json
+*.zip
+
+# Mac crap
+.DS_Store
+*.backup
